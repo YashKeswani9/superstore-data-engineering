@@ -224,14 +224,8 @@ This project is valuable because it demonstrates the ability to:
 
 Potential improvements for the project include:
 
-- adding data quality checks and alerting
-- implementing incremental dbt models for scale
 - adding documentation for each mart and fact table
 - integrating CI/CD for dbt and Airflow validation
 - adding dashboarding or BI connectivity for end-user reporting
-
-## Summary
-
-This project represents a realistic end-to-end data engineering solution for retail analytics. It balances technical depth with readability, making it suitable for portfolio presentation, technical interviews, or demonstrating practical pipeline and warehouse design skills.
 
 ---
