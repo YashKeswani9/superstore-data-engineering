@@ -1,12 +1,12 @@
-# Walmart Data Engineering Pipeline
+# Superstore Data Engineering Pipeline
 
 A personal end-to-end data engineering project that builds a modern retail analytics pipeline using Apache Airflow, dbt, Databricks, and Docker. The goal of the project is to ingest retail transaction data, transform it into a curated analytics layer, and orchestrate the workflow in a clean, production-oriented structure.
 
-This project is designed to demonstrate practical data engineering skills: pipeline orchestration, modular transformation logic, incremental thinking, and layered warehouse modeling using an example Walmart-style sales dataset.
+This project is designed to demonstrate practical data engineering skills: pipeline orchestration, modular transformation logic, incremental thinking, and layered warehouse modeling using an example superstore-style sales dataset.
 
 ## Project Overview
 
-The repository models a retail data platform for Walmart-style operations, using a simplified but realistic dataset containing:
+The repository models a retail data platform for Superstore-style operations, using a simplified but realistic dataset containing:
 
 - customers
 - stores
@@ -235,5 +235,3 @@ Potential improvements for the project include:
 This project represents a realistic end-to-end data engineering solution for retail analytics. It balances technical depth with readability, making it suitable for portfolio presentation, technical interviews, or demonstrating practical pipeline and warehouse design skills.
 
 ---
-
-If you'd like, this README can also be adapted into a more polished recruiter-focused version with a stronger personal brand and project narrative.
