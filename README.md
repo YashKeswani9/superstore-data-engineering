@@ -1,2 +1,2 @@
 ## Architecture
-[DE.png]
+[Architecture/DE.png]
