@@ -1,2 +1,2 @@
 ## Architecture
-[Architecture Diagram](Architecture/DE.png)
+![Architecture Diagram](Architecture/DE.png)
